@@ -26,8 +26,6 @@ td{
     padding: 2px;
 }
 
-div.nome1{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 50px;
+#feriado{
+    color:red;
 }
