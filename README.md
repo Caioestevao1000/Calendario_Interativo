@@ -2,7 +2,7 @@
 ![Capa do Projeto](img/capa.jpg)
 
 ## Descrição
-Calendário Interativo para o estudo de funções em JS e fixação dos conteúdos aprendidos sobre as tag de criação de tabelas.
+Calendário Interativo para o estudo de funções em JS e fixação dos conteúdos aprendidos sobre as tags de criação de tabelas.
 
 ## Funcioanlidades
 Seleciona a cor desejada e o dia que será marcado.
